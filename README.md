@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohaib</h1>
 <h3 align="center">Where logic shapes structure, creativity fuels innovation, and code becomes more than instructions — it becomes creation.</h3>
 
-<!-- إحصائيات الملف الشخصي -->
+
 <p align="center">
     <a href="https://github.com/Sohaib-Kalache?tab=followers">
         <img src="https://img.shields.io/github/followers/Sohaib-Kalache?label=Followers&style=social" alt="GitHub Badge">
@@ -14,7 +14,7 @@
     </a>
 </p>
 
-<!-- صورة متحركة تعبر عن البرمجة -->
+
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Coding gif" width="300"/>
 
 - 🌱 I’m currently learning **Python, Dart, Flutter, Mobile App Development, AI Chatbots**
@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://fb.com/kalache.sohaibe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalache.sohaibe" height="40" width="50" /></a>
 <a href="https://instagram.com/__sohaibe__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sohaibe__" height="40" width="50" /></a>
-<!-- يمكنك إضافة LinkedIn أو أي رابط آخر هنا بنفس التنسيق -->
+
 </p>
 
 <hr>
@@ -67,11 +67,9 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Sohaib-Kalache&show_icons=true&theme=monokai&locale=en" alt="Sohaib-Kalache" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohaib-Kalache&theme=monokai" alt="Sohaib-Kalache" width="48%" />
+    
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohaib-Kalache&show_icons=true&theme=monokai&locale=en&layout=compact" alt="Sohaib-Kalache" width="45%" />
-</p>
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
