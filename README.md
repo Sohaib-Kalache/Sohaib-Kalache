@@ -64,14 +64,6 @@
 
 <hr>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sohaib-Kalache&show_icons=true&theme=monokai&locale=en"  width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohaib-Kalache&theme=monokai"  width="48%" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohaib-Kalache&show_icons=true&theme=monokai&locale=en&layout=compact"  width="45%" />
-</p>
 
 
 <p align="center">
