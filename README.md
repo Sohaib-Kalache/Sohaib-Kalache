@@ -30,6 +30,7 @@
 <p align="left">
 <a href="https://fb.com/kalache.sohaibe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalache.sohaibe" height="40" width="50" /></a>
 <a href="https://instagram.com/__sohaibe__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sohaibe__" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/sohaib-kalache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Sohaib Kalache" height="40" width="50" /></a>
 
 </p>
 
